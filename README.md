@@ -4,4 +4,4 @@
 
 [View site]()
 
-![guess-my-number](https://github.com/anjorrao/mapty/blob/main/screenshot.PNG?raw=true)
+![mapty](https://github.com/anjorrao/mapty/blob/main/screenshot.PNG?raw=true)
